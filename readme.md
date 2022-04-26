@@ -2,7 +2,7 @@
 
 Hi there!
 
-The reuqired packages can be ``requirement.txt``
+The reuqired packages can be installed with the ``requirement.txt``
 
 My Segmentation program has the following arguments:
 
